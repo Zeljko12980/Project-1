@@ -98,7 +98,7 @@ Pre nego što pokrenete aplikaciju, uverite se da imate sledeće alate instalira
 ### 1. Kloniranje Repozitorijuma
 
 ```bash
-git clone https://github.com/Zeljko12980/Projekat-1
+git clone https://github.com/Zeljko12980/Project-1
 
 ```
 
@@ -161,7 +161,7 @@ git clone https://github.com/Zeljko12980/Projekat-1
 
 ## Razvoj i Testiranje
 
-- **Za backend**, svi endpointi mogu se testirati pomoću Swagger-a na `http://localhost:5000/swagger`.  
+- **Za backend**, svi endpointi mogu se testirati pomoću Swagger-a na `http://localhost:5157/swagger`.  
 - **Za frontend**, aplikacija se automatski osvežava prilikom promena zahvaljujući Vite.js.
 
 ---
